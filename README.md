@@ -5,6 +5,6 @@ wait for another process and get exit code.
 gcc waitpid.c -o waitpid
 
 # usage
-waitpid <pid>
+waitpid &lt;pid&gt;
 
 
